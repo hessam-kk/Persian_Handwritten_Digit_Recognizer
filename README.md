@@ -29,5 +29,6 @@ Best accuracy: loss: 0.0652 - accuracy: 0.9847 (with closing)
 
 ## Third Model
 Consist of three layers: two dense layers with ReLU activation functions and one dense layer with softmax activation function.
+
 Best accuracy: loss: 0.0541 - accuracy: 0.9880 (without closing)
 
